@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WishSR
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning industrial engineering.
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: inistagram & yt with name wish_sr
+- 📫 How to reach me: 
 
 <!---
 WishSR/WishSR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
